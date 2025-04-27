@@ -1,0 +1,7 @@
+easyocr
+selenium
+schedule
+python-dotenv
+torch
+torchvision
+torchaudio
